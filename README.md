@@ -45,7 +45,7 @@ I organize DBA work into nine domains. Each domain gets four kinds of material:
 | **sql-server-dba-framework** | The framework above: scripts, runbooks, checklists and case studies for SQL Server 2022+ |
 | **ai-dba-assistant** | AI that reads diagnostic output and explains it in plain English |
 | **ai-stock-research-desk** | AI research desk for US stocks |
-| **photo-vault-pwa** | Private photo vault as an installable web app |
+| **[KeeSnap](https://github.com/FrankNi688/KeeSnap)** | Snap recovery codes and 2FA backup codes; on-device OCR, AES-256 encrypted, works offline. Installable PWA · [Live demo](https://frankni688.github.io/KeeSnap/) |
 | **android-app** | Personal Android app |
 
 *(Links coming soon)*
